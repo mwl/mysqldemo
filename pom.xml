@@ -5,7 +5,7 @@
 
 	<groupId>com.container-solutions</groupId>
 	<artifactId>mysqldemo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<packaging>jar</packaging>
 
 	<name>mysqldemo</name>
